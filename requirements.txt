@@ -1,0 +1,8 @@
+SimpleITK
+pydicom
+matplotlib
+tqdm
+nibabel
+numpy
+pylidc
+setuptools<81
